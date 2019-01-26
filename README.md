@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is end project of React Crash Course by Traversy media.
 
 ## Available Scripts
 
